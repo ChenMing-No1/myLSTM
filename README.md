@@ -1,7 +1,11 @@
 # myLSTM
 ## 1、实验要求
 手动实现LSTM语言模型的循环单元
-## 2、实验文件说明
+## 2、实验环境
+python版本：3.6.6
+
+pytorch版本：1.9.0
+## 3、实验文件说明
 LSTMLM_way1.py是模型一的单层LSTM网络
 
 LSTMLM_way2.py是模型二的单层LSTM网络
